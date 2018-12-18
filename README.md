@@ -26,6 +26,10 @@ Performing clustering analysis on NHL game statistics from the past several year
 #### Dimensionality Reduction
 Using Dimensionality reduction to try to find emergent trends in crypto Data
 
+#### Domain Paper and Presentation
+Halfway through the semester, I began my investigation into the big data domain of stock and crypto markets.
+The paper and presentation are a writeup of my preliminary findings that layed the groundwork for my final project.
+
 #### Final Project: Stock Prediction using Machine Learning
 For my final project I spent a lot of time learning about machine learning with tensorflow.
 I used tensorflow to build basic econonmic models and tranined them using S&P500 data from the past 5 years. 
